@@ -2,11 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
-/* body *{
+body *{
     outline: 1px solid pink;
-} */
+}
 .wrapper{
     max-width: 1200px;
     margin: 0px auto;
-    background-color: silver;
 }
