@@ -2,10 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
-body *{
+/* body *{
     outline: 1px solid pink;
-}
+} */
 .wrapper{
     max-width: 1200px;
+    min-height: 500px;
     margin: 0px auto;
 }
